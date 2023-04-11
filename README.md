@@ -1,7 +1,7 @@
 # Web_Study
-웹 개발 공부
+<h3>웹 개발 공부</h3>
 
-📁Book_web
+<h5>📁Book_web</h5>
 01. 로그인 / 회원가입 가능한 페이지
 - JSP페이지<br>
 login.jsp - > login_action.jsp
